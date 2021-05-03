@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\bin\Debug\TI_Lab_2.exe.config
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\bin\Debug\TI_Lab_2.exe
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\bin\Debug\TI_Lab_2.pdb
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\obj\Debug\TI_Lab_2.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\obj\Debug\TI_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\obj\Debug\TI_Lab_2.exe
+C:\Users\HP\Downloads\Telegram Desktop\TI_Lab_2\obj\Debug\TI_Lab_2.pdb
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\bin\Debug\TI_Lab_2.exe.config
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\bin\Debug\TI_Lab_2.exe
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\bin\Debug\TI_Lab_2.pdb
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\obj\Debug\TI_Lab_2.csprojAssemblyReference.cache
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\obj\Debug\TI_Lab_2.csproj.CoreCompileInputs.cache
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\obj\Debug\TI_Lab_2.exe
+D:\ТИ\TI_Lab_2-main\TI_Lab_2-main\obj\Debug\TI_Lab_2.pdb
